@@ -1,4 +1,8 @@
-# hlf-add-new-peer
+# Adding a new in running Hyperledger Fabric Network
+
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/cjXJrlP2owc/0.jpg)](http://www.youtube.com/watch?v=cjXJrlP2owc "Video Tutorial")
+
 
 ## Starting the network
 
